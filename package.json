@@ -1,0 +1,27 @@
+{
+  "name": "kenex-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motesh-Deshpande/kenex-api.git"
+  },
+  "author": "Motesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Motesh-Deshpande/kenex-api/issues"
+  },
+  "homepage": "https://github.com/Motesh-Deshpande/kenex-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "knex": "^2.0.0",
+    "path": "^0.12.7",
+    "pg": "^8.7.3"
+  }
+}
