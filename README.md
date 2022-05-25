@@ -1,9 +1,13 @@
 # kenex-api
 
 clone the code
+
 run => npm i
+
 create postgres db in local with port 5432 (default port) host the db (run it)
+
 run => npx knex migrate:latest   or   knex migrate:latest.  // to create tables
+
 run => npx knex seed:run   or   knex seed:run.              //to feed data into tables
 
 run node index.js  or  nodemon index.js
